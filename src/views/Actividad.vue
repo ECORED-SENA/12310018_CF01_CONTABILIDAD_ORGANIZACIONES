@@ -497,18 +497,32 @@ export default {
         {
           id: 16,
           texto:
-            'La empresa y el establecimiento de comercio significan lo mismo.',
+            '¿Qué diferencia principal existe entre empresa y establecimiento de comercio?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Falso.',
-              esCorrecta: true,
+              texto:
+                'El establecimiento es actividad económica organizada con fines productivos.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Verdadero.',
+              texto:
+                'La empresa corresponde solo al lugar físico donde se realizan ventas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'La empresa es actividad económica organizada con fines productivos definidos.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'El establecimiento es una persona jurídica con funciones comerciales propias.',
               esCorrecta: false,
             },
           ],
@@ -518,19 +532,33 @@ export default {
         {
           id: 17,
           texto:
-            'La clasificación empresarial facilita análisis y toma de decisiones económicas.',
+            '¿Cuál es la función principal del marco normativo empresarial en Colombia?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Falso.',
-              esCorrecta: false,
+              texto:
+                'Regular la actividad económica y garantizar cumplimiento de normas vigentes.',
+              esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Verdadero.',
-              esCorrecta: true,
+              texto:
+                'Incrementar únicamente la producción sin considerar aspectos legales vigentes.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Reducir controles estatales sobre empresas en todos los sectores económicos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Eliminar responsabilidades sociales en el desarrollo empresarial colombiano.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Su respuesta es correcta.',
@@ -539,18 +567,32 @@ export default {
         {
           id: 18,
           texto:
-            'El tamaño empresarial oficial en Colombia se determina principalmente por ingresos anuales.',
+            '¿Qué representa la sección dentro de la estructura de la CIIU?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Falso.',
+              texto:
+                'Clasificación específica de productos dentro de una empresa determinada.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Verdadero.',
+              texto:
+                'Identificación de ingresos anuales según actividad económica empresarial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Nivel más detallado para registro de actividades comerciales específicas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Grandes agrupaciones de actividades económicas dentro del sistema productivo.',
               esCorrecta: true,
             },
           ],
@@ -560,18 +602,32 @@ export default {
         {
           id: 19,
           texto:
-            'Las entidades sin ánimo de lucro distribuyen utilidades entre sus miembros.',
+            '¿Cuál es una característica de la persona natural comerciante?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Falso.',
-              esCorrecta: true,
+              texto:
+                'Tiene responsabilidad limitada exclusivamente al capital aportado inicial.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Verdadero.',
+              texto:
+                'Responde con su patrimonio personal por obligaciones del negocio comercial.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Debe conformarse obligatoriamente como sociedad con varios socios activos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Se constituye únicamente mediante escritura pública y registro societario.',
               esCorrecta: false,
             },
           ],
@@ -581,19 +637,33 @@ export default {
         {
           id: 20,
           texto:
-            'Una sociedad BIC mantiene el ánimo de lucro, pero incorpora impacto social y ambiental.',
+            '¿Cuál es una característica de las organizaciones de economía solidaria?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Falso.',
+              texto:
+                'Distribuyen utilidades exclusivamente entre inversionistas principales.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Verdadero.',
+              texto:
+                'Operan únicamente bajo control estatal directo en todos los casos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Se basan en cooperación y buscan beneficio colectivo entre asociados.',
               esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'Se enfocan solo en actividades comerciales con ánimo de lucro definido.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Su respuesta es correcta.',

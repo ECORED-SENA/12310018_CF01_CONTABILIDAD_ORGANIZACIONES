@@ -198,7 +198,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 Clasificación por actividad económica (CIIU)
 
-    p.mb-5 La CIIU es un sistema estándar que organiza las actividades económicas para identificar el objeto principal de las empresas. En Colombia es oficializada por el DANE y facilita el análisis sectorial, los reportes y la caracterización empresarial.
+    p.mb-5 La CIIU es un sistema estándar que organiza las actividades económicas para identificar el objeto principal de las empresas. En Colombia, es oficializada por el DANE y facilita el análisis sectorial, los reportes y la caracterización empresarial.
 
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
       .bloque-texto-g__img(
@@ -227,7 +227,7 @@
                 figure
                   img(src='@/assets/curso/tema3/img16.png', alt='' style="max-width: 500px").m-auto
               
-            .row.justify-content-center.align-items-center
+            .row.justify-content-center.align-items-left
               .col-xl-6.mb-4.mb-md-0
                 h4 División (2 dígitos)
                 ul.fa-ul.estilo___ul-1.mb-0
@@ -381,7 +381,7 @@
         #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 3.2 Clasificación por tamaño empresarial 
         
-        p.mb-5 La clasificación por tamaño empresarial en Colombia permite orientar apoyos, análisis y segmentación empresarial. Se basa en el marco MiPymes y el Decreto 957 de 2019, que define categorías según ingresos anuales y macrosector económico y para ello, se abordará el procedimiento para clasificar por tamaños las empresas.
+        p.mb-5 La clasificación por tamaño empresarial en Colombia permite orientar apoyos, análisis y segmentación empresarial. Se basa en el marco MiPymes y el Decreto 957 de 2019, que define categorías según ingresos anuales y macrosector económico y, para ello, se abordará el procedimiento para clasificar por tamaños las empresas.
 
         .row.justify-content-center.mb-5
           .col-lg-10
@@ -465,7 +465,7 @@
             h4.mb-4 Pódcast
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="De microempresa a gran empresa: cómo evolucionan las organizaciones según su tamaño"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/curso/podcast/podcast.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
       .col-xl-auto
@@ -519,7 +519,7 @@
         #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 3.3 Clasificación por origen del capital y finalidad 
         
-        p.mb-5 Las empresas también se clasifican según el origen del capital privadas, públicas o mixtas y su finalidad, con o sin ánimo de lucro, lo que permite comprender sus objetivos, control y formas de gestión. A continuación, se presentarán algunos ejemplos.
+        p.mb-5 Las empresas también se clasifican según el origen del capital: privadas, públicas o mixtas, y su finalidad, con o sin ánimo de lucro, lo que permite comprender sus objetivos, control y formas de gestión. A continuación, se presentarán algunos ejemplos.
 
     .bg--img_03.mb-5
       .row.h-100.align-items-center
@@ -528,7 +528,7 @@
             img(src="@/assets/curso/tema1/img2.png", alt="" ).m-auto
         .col-xl
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
-            .row(titulo="Actividad (CIIU): Venta minorista de alimentos.	").ajuste-cajaAcordion
+            .row(titulo="Actividad (CIIU): venta minorista de alimentos.	").ajuste-cajaAcordion
               .col-xl-7.mb-4
                 ul.fa-ul.mb-0
                   li.mb-1
@@ -547,7 +547,7 @@
                 figure
                   img(src='@/assets/curso/tema3/img29.png', alt='').m-auto 
 
-            .row(titulo="Actividad (CIIU): Servicios de alojamiento.").ajuste-cajaAcordion
+            .row(titulo="Actividad (CIIU): servicios de alojamiento.").ajuste-cajaAcordion
               .col-xl-7.mb-4
                 ul.fa-ul.mb-0
                   li.mb-1
@@ -566,7 +566,7 @@
                 figure
                   img(src='@/assets/curso/tema3/img30.png', alt='').m-auto 
 
-            .row(titulo="Actividad (CIIU): Prestación de servicios educativos.").ajuste-cajaAcordion
+            .row(titulo="Actividad (CIIU): prestación de servicios educativos.").ajuste-cajaAcordion
               .col-xl-7.mb-4
                 ul.fa-ul.mb-0
                   li.mb-1

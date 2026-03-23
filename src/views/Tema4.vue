@@ -10,7 +10,7 @@
     .cala-tema1.mb-5(data-aos="zoom-in")
       .row.align-items-center
         .col-xl.order-2.order-lg-1
-          p.mb-0 Además de clasificar una empresa por actividad económica o por tamaño, también es necesario comprender su organización jurídica. La forma jurídica define cómo se organiza legalmente la empresa y establece reglas sobre responsabilidad, administración y toma de decisiones. En términos generales, una empresa puede desarrollarse por una persona natural comerciante o a través de una sociedad comercial. La elección depende de los objetivos del proyecto, el número de participantes, la necesidad de separar patrimonios y el tipo de riesgo asumido. Articulo 10 (Decreto 410 - Código de Comercio.); (Colombia P. d., Ley 1258, 2008).
+          p.mb-0 Además de clasificar una empresa por actividad económica o por tamaño, también es necesario comprender su organización jurídica. La forma jurídica define cómo se organiza legalmente la empresa y establece reglas sobre responsabilidad, administración y toma de decisiones. En términos generales, una empresa puede desarrollarse por una persona natural comerciante o a través de una sociedad comercial. La elección depende de los objetivos del proyecto, el número de participantes, la necesidad de separar patrimonios y el tipo de riesgo asumido. Artículo 10 (Decreto 410 - Código de Comercio.); (Colombia P. d., Ley 1258, 2008).
         .col-xl-auto.order-1.order-lg-2
           figure
             img(src='@/assets/curso/tema4/img1.png', alt='').m-auto
@@ -39,7 +39,7 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-arrow-alt-circle-right
-                    | Ejemplo: Persona natural, E.U., S.A.S.
+                    | Ejemplo: persona natural, E.U., S.A.S.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-arrow-alt-circle-right
@@ -169,7 +169,7 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-arrow-alt-circle-right
-                      | #[b Fuente]: código de Comercio (Decreto. 410/1971).
+                      | #[b Fuente]: Código de Comercio (Decreto 410/1971).
                 .col-xl-5
                   figure
                     img(src='@/assets/curso/tema4/img10.png', alt='').m-auto 
@@ -215,7 +215,7 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-arrow-alt-circle-right
-                      | #[b Fuente]: código de Comercio (Decreto. 410/1971).	
+                      | #[b Fuente]: Código de Comercio (Decreto 410/1971).	
                 .col-xl-5
                   figure
                     img(src='@/assets/curso/tema4/img12.png', alt='').m-auto 
@@ -238,7 +238,7 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-arrow-alt-circle-right
-                      | #[b Fuente]: código de Comercio (Decreto. 410/1971).
+                      | #[b Fuente]: Código de Comercio (Decreto 410/1971).
                 .col-xl-5
                   figure
                     img(src='@/assets/curso/tema4/img13.png', alt='').m-auto 
@@ -261,7 +261,7 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-arrow-alt-circle-right
-                      | #[b Fuente]: código de Comercio (Decreto. 410/1971).
+                      | #[b Fuente]: Código de Comercio (Decreto 410/1971).
                 .col-xl-5
                   figure
                     img(src='@/assets/curso/tema4/img14.png', alt='').m-auto 
@@ -284,7 +284,7 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-arrow-alt-circle-right
-                      | #[b Fuente]: código de Comercio (Decreto. 410/1971).
+                      | #[b Fuente]: Código de Comercio (Decreto 410/1971).
                 .col-xl-5
                   figure
                     img(src='@/assets/curso/tema4/img15.png', alt='').m-auto 
@@ -307,7 +307,7 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-arrow-alt-circle-right
-                      | #[b Fuente]: código de Comercio (Decreto. 410/1971).
+                      | #[b Fuente]: Código de Comercio (Decreto 410/1971).
                 .col-xl-5
                   figure
                     img(src='@/assets/curso/tema4/img16.png', alt='').m-auto 
@@ -339,7 +339,7 @@
         #t_4_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 4.4 Formas asociativas de economía solidaria 
         
-        p.mb-5 Las organizaciones de economía solidaria priorizan la satisfacción de necesidades colectivas mediante cooperación y ayuda mutua, no la distribución de utilidades, y funcionan bajo reglas democráticas y un marco legal específico. Estas, se presentan a continuación.
+        p.mb-5 Las organizaciones de economía solidaria priorizan la satisfacción de necesidades colectivas mediante cooperación y ayuda mutua, no la distribución de utilidades, y funcionan bajo reglas democráticas y un marco legal específico. Estas; se presentan a continuación.
 
         .bg-slider.mb-0
           .px-5

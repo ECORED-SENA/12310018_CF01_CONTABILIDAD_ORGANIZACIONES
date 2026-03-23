@@ -43,7 +43,7 @@
                 figure
                   img(src='@/assets/curso/tema1/img3.png', alt='').m-auto 
 
-            .row(titulo="Código de Comercio (Decreto. 410/1971)").ajuste-cajaAcordion
+            .row(titulo="Código de Comercio (Decreto 410/1971)").ajuste-cajaAcordion
               .col-xl-7.mb-4
                 ul.fa-ul.mb-0
                   li.mb-1
@@ -62,7 +62,7 @@
                 figure
                   img(src='@/assets/curso/tema1/img4.png', alt='').m-auto 
 
-            .row(titulo="Código de Comercio (Decreto. 410/1971)").ajuste-cajaAcordion
+            .row(titulo="Código de Comercio (Decreto 410/1971)").ajuste-cajaAcordion
               .col-xl-7.mb-4
                 ul.fa-ul.mb-0
                   li.mb-1
@@ -76,12 +76,12 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-arrow-alt-circle-right
-                    | #[b ¿Cómo se usa?] Ubica quién ejerce profesionalmente actividades mercantiles.
+                    | #[b ¿Cómo se usa?] Ubica a quien ejerce profesionalmente actividades mercantiles.
               .col-xl-5
                 figure
                   img(src='@/assets/curso/tema1/img5.png', alt='').m-auto 
 
-            .row(titulo="Código de Comercio (Decreto. 410/1971)").ajuste-cajaAcordion
+            .row(titulo="Código de Comercio (Decreto 410/1971)").ajuste-cajaAcordion
               .col-xl-7.mb-4
                 ul.fa-ul.mb-0
                   li.mb-1
@@ -106,11 +106,11 @@
                   li.mb-1
                     span.fa-li
                       i.fas.fa-arrow-alt-circle-right
-                    | #[b Artículo / acto]: MIPYMES.
+                    | #[b Artículo / acto]: mipymes.
                   li.mb-1
                     span.fa-li
                       i.fas.fa-arrow-alt-circle-right
-                    | #[b ¿Qué establece?] Marco para promover MiPymes y su enfoque de clasificación.
+                    | #[b ¿Qué establece?] Marco para promover mipymes y su enfoque de clasificación.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-arrow-alt-circle-right
