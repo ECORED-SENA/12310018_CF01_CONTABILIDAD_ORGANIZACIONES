@@ -292,9 +292,9 @@ export default {
     },
     {
       referencia:
-        'Colombia, P. d. (1971). Decreto 410 - Código de Comercio. Obtenido de',
+        'Colombia. Ministerio de Comercio, Industria y Turismo. (s. f.). Decreto 410 de 1971: Código de Comercio. Recuperado de',
       link:
-        'https://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html',
+        'https://www.mincit.gov.co/ministerio/normograma-sig/procesos-de-apoyo/gestion-juridica/decretos/decreto-ley-410-de-1971.aspx',
     },
     {
       referencia: 'Colombia, P. d. (1995). Ley 222.',
