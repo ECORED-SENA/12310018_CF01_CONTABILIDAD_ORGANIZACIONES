@@ -589,8 +589,8 @@
 
     figure(data-aos="zoom-in").mb-0
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption(data-aos="zoom-in") #[b Video]: 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/fSxMEj3Q4Qw?si=ApnAI2d9h73-EFRu" title="Ejemplo aplicado para la clasificación de una empresa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption(data-aos="zoom-in") #[b Video]: Ejemplo aplicado para la clasificación de una empresa
 
 </template>
 
