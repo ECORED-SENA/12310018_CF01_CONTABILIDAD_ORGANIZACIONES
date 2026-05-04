@@ -21,7 +21,7 @@
     .bg-1
       .px-5
         
-        p.mb-5 Se invita a explorar la siguiente infografía para identificar las formas de organización jurídica y los modelos de asociación permitidos por la normativa legal vigente. 
+        p.mb-5 Se invita a explorar la siguiente contenido para identificar las formas de organización jurídica y los modelos de asociación permitidos por la normativa legal vigente. 
 
         TabsC.color-acento-contenido.mb-0(data-aos="zoom-in")
           .py-3.py-md-4(titulo="Unipersonal")
@@ -94,7 +94,7 @@
         .caja-tema4.mb-5(data-aos="zoom-in")
           .row.align-items-center
             .col-xl.col-md-10.order-2.order-lg-1.espacio-sm
-              p.mb-0 La función social y la finalidad permiten diferenciar organizaciones que buscan generar utilidades para distribuirlas entre propietarios, organizaciones sin ánimo de lucro que reinvierten sus excedentes en su objeto social, y modelos híbridos o de propósito que incorporan compromisos verificables con impactos sociales y ambientales. Esta clasificación aporta claridad sobre expectativas de gobierno, destinación de excedentes y tipo de control institucional aplicable. En este punto, se explorará sobre la clasificación por la función social y finalidad.
+              p.mb-0 La función social y la finalidad permiten diferenciar organizaciones que buscan generar utilidades para distribuirlas entre propietarios, organizaciones sin ánimo de lucro que reinvierten sus excedentes en su objeto social y modelos híbridos o de propósito que incorporan compromisos verificables con impactos sociales y ambientales. Esta clasificación aporta claridad sobre expectativas de gobierno, destinación de excedentes y tipo de control institucional aplicable. En este punto, se explorará sobre la clasificación por la función social y finalidad.
             .col-xl-auto.col-md-2.order-1.order-lg-2(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/tema4/img5.svg', alt='' style="width: 77px").m-auto
@@ -339,7 +339,7 @@
         #t_4_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 4.4 Formas asociativas de economía solidaria 
         
-        p.mb-5 Las organizaciones de economía solidaria priorizan la satisfacción de necesidades colectivas mediante cooperación y ayuda mutua, no la distribución de utilidades, y funcionan bajo reglas democráticas y un marco legal específico. Estas; se presentan a continuación.
+        p.mb-5 Las organizaciones de economía solidaria priorizan la satisfacción de necesidades colectivas mediante cooperación y ayuda mutua, no la distribución de utilidades, y funcionan bajo reglas democráticas y un marco legal específico. Estas se presentan a continuación.
 
         .bg-slider.mb-0
           .px-5

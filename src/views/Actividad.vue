@@ -18,7 +18,7 @@ export default {
   data: () => ({
     cuestionario: {
       tema: 'Empresa y clasificación empresarial en Colombia.',
-      titulo: 'Empresa y clasificación empresarial en Colombia.',
+      titulo: 'Cuestionario',
       introduccion:
         '<b> Objetivo:</b> identificar los conceptos fundamentales del entorno empresarial colombiano y los criterios normativos de clasificación (actividad, tamaño y origen de capital) para fundamentar el análisis de organizaciones en contextos reales o hipotéticos.',
       barajarPreguntas: true,

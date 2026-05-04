@@ -291,12 +291,6 @@ export default {
         'http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html',
     },
     {
-      referencia:
-        'Colombia. Ministerio de Comercio, Industria y Turismo. (s. f.). Decreto 410 de 1971: Código de Comercio. Recuperado de',
-      link:
-        'https://www.mincit.gov.co/ministerio/normograma-sig/procesos-de-apoyo/gestion-juridica/decretos/decreto-ley-410-de-1971.aspx',
-    },
-    {
       referencia: 'Colombia, P. d. (1995). Ley 222.',
       link: '',
     },
@@ -342,12 +336,6 @@ export default {
     },
     {
       referencia:
-        'Departamento Administrativo Nacional de Estadística (DANE). (2022). Resolución 2306 de 2022 (modificación CIIU Rev. 4 A.C. 2021). Obtenido de',
-      link:
-        'https://www.dane.gov.co/files/acerca/Normatividad/resoluciones/2022/Resolucion-2306-de-2022.pdf',
-    },
-    {
-      referencia:
         'Departamento Administrativo Nacional de Estadística (DANE). (2012). Resolución 066. Obtenido de',
       link:
         'https://www.dane.gov.co/files/acerca/Normatividad/Resolucion066_2012.pdf',
@@ -385,7 +373,7 @@ export default {
         {
           nombre: 'Germán Adolfo Rodríguez Pulido',
           cargo: 'Experto temático',
-          centro: 'Centro XYZ - Regional Risaralda',
+          centro: 'Centro Comercio y Servicios - Regional Risaralda',
         },
         {
           nombre: 'Paola Andrea Tello Zambrano',
